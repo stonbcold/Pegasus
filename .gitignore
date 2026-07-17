@@ -1,0 +1,8 @@
+# Fichiers générés par PEGASUS
+pegasus_log.txt
+installed_programs.txt
+screen_*.png
+
+# Python
+__pycache__/
+*.pyc
