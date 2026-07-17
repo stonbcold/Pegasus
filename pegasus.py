@@ -13,6 +13,13 @@ import platform
 import subprocess
 import datetime
 
+# Assure l'affichage correct des caracteres Unicode (banniere, cadres)
+# quel que soit le terminal ou la page de code du PC.
+try:
+    sys.stdout.reconfigure(encoding="utf-8")
+except Exception:
+    pass
+
 try:
     import psutil
 except ImportError:
