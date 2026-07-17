@@ -16,15 +16,6 @@ en local, sur le PC où le script tourne.
 
 ---
 
-## Aperçu
-
-<!-- 📸 AJOUTE TA PHOTO ICI — capture d'écran du menu principal -->
-<!-- Exemple : ![Menu principal](docs/menu.png) -->
-
-*(Emplacement réservé pour une capture du menu principal)*
-
----
-
 ## Fonctionnalités
 
 | # | Fonction | Description |
@@ -72,24 +63,6 @@ Tape `q` pour quitter.
 <!-- 📸 AJOUTE TA PHOTO ICI — capture d'une fonction en action (ex : CPU/RAM ou liste des processus) -->
 
 *(Emplacement réservé pour une capture d'une fonction en cours d'utilisation)*
-
----
-
-## Galerie
-
-Ajoute ici tes propres captures d'écran :
-
-<!-- 📸 AJOUTE TES PHOTOS ICI -->
-<!--
-![Infos système](docs/systeme.png)
-![Disques](docs/disques.png)
-![Réseau](docs/reseau.png)
--->
-
-| | |
-|---|---|
-| *(photo 1)* | *(photo 2)* |
-| *(photo 3)* | *(photo 4)* |
 
 ---
 
