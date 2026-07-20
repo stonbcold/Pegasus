@@ -6,3 +6,7 @@ screen_*.png
 # Python
 __pycache__/
 *.pyc
+
+# Artefacts de build PyInstaller
+build/
+*.spec
